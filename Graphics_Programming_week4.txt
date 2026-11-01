@@ -149,4 +149,16 @@ Coiled wire:
 As their direction of motion changes, the orientation of their magnetic fields changes as well.
 
 		Slide 17
+Magnetic Fields add together 
 
+Every moving electron contibutes a mganetic field 
+
+Each contribution exists at the same time.
+All these magnetic fields are present at the same time, and their contributions add together. -> this is the principle of superposition.
+Superposition means that the total magnetic field is the vector sum of the individual magnetic fields. -> Individual magnetic fields combine to form a total magnetic field.
+
+What happens when two magnetic fields point in the smae direction?
+They reinforce each other.
+
+A stronger magnetic field along the coil's axis
+Coil's axis is the imaginary line running through the center of the solenoi

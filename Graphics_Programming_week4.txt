@@ -1,0 +1,152 @@
+1. Ray optics describes light as rays traveling through space.
+
+Reflection ---> Light bounces off surface
+Refraction ---> Light changes direction when passing between 			different media
+Transmission -> Light passes through a material
+
+2. Wave optics describes light as a wave
+It explains:
+- Diffraction: Light spreads or bends around obstacles and through small openings.
+- Interference: Light waves combine and can reinforce or cancel each other.
+
+3. Electromagnetic Optics describes light as an electromagnetic wave.
+
+It explains:
+- Polarization: The orientation of light's electric-field oscillators
+- Dispersion: Different wavelengths of light travel at different speeds in a material.
+
+4. Quauntum Optics describes light at the quantum level.
+It explains:
+- Fluorescence: A material absorbs energy and emits light relatively quickly
+- Phosphorescence: A material can continue emitting light after excitation stops.
+
+Two people move away frome each other called repulsion.
+Momentum -> describes the quantity of motion an object has.
+
+Virtual photons --> are part of the mathematical description of electromagnetic interactions between charged particles
+
+Replusive Force -> two electrons have the same negative charge.
+Inverse Square Law F∝ 1/r^2
+F - magnitude of the repulsive force.
+r - distance between particles
+∝ - proportional to 
+The closer the electrons are,  the stronger the repulsive force.
+
+Particles can have positive or negative charge
+An electron has a charge of -e, while proton has a charge of +e, where e is the elementary charge.
+
+Particles with opposite electric charges attract each other.
+
+		Slide 9
+Atom consists of:
+Protons - positively charged particles in the nucleus
+Neutrons - particles with no electic charge, also in the nucleus
+Electrons - negatively charged particles surrounding the nucleus
+
+The atomic number -> tells us how many protons an atom has
+
+In a neutral atom, the number of electrons equal the number of protons.
+Neural carbon atom has 6 protons + 6 electrons.
+
+		Slide 10
+An electric field describes the electric force that a positive test charge would experience at a particular point in space, per unit charge.
+
+SIMPLE -> An electic field tells us how electic charges influence the space around them.
+
+		Slide 11
+1. A Metal Wire 
+Inside the wire, we have two types of charged particles:
+
+Positive ions:
+- Have a positive electic charge
+- Remain stationary in the metal
+
+Electrons: 
+- Have a negative electic charge
+- Drift through the wire
+
+2. Electrical Neutrality 
+The positive and negative charge per unit length balance, making the wire neutral.
+
+3. A Stationary Proton
+The wire is neutral, and the electric field outside it is zero.
+Therefore, the proton experiences no electic force.
+
+		Slide 12
+Electron flow:
+- Electrons have negatice electric charge
+- They drift through the wire in one direction
+
+Electron flow and conventional current have opposite directions in a metal wire.
+
+Magnetic Force -> F_B = q(v x vector(B))
+F_B - magnetic force
+q - electic charge
+v - velocity of the particle 
+B - magnetic field 
+x - cross product
+
+If the proton moves through the magnetic field, it can experience a magnetic force.
+The direction of the force depends on the particle's velocity, charge and magnetic field direction.
+
+What is the Connection to Special Relativity?
+Electricity and magnetism are closely related.
+An interaction described as magnetic in one reference frame can invlove an electric field in another reference frame.
+
+			Slide 13 
+A frame of the reference is the perspective from which an observer measures motion
+
+CLEAR EXAMPLE:
+You're sitting iside a moving train.
+- Relative to the train, you're stationary
+- Relative to someone standing on the platform, you're moving
+
+		Slide 14
+Magnetism is electricity plus relativity ----> this means electic and magnetic field are closely connected ----> what apperas as a magnetic interaction in one reference frame can be described through an electic interaction in another.
+
+Special relativity changes the measured spacing between moving charges. This creates a net positive charge density in the proton's frame, producing an electric force that explains the magnetic deflection observed in ther wire's frame
+
+- Positive ions are closer together
+- Electrons are farther apart
+
+The wire's description changes because the observer changes reference frames.
+
+		Slide 15
+A charge moving relative to an observer also produces a magnetic field 
+
+Stationary charge:
+- Produces an electic field 
+- Does not produce a magnetic field in its rest frame
+
+Moving charge:
+- Produces an electric field 
+- Also produces a magnetic field relative to the observer
+
+
+The electic field of a moving charge differs from that of a stationary charge, as described by special relativity.
+
+| Electric Field                                                           | Magnetic Field                                              |
+| ------------------------------------------------------------------------ | ----------------------------------------------------------- |
+| Produced by electric charges                                             | Produced by moving charges                                  |
+| Field lines point away from positive charges and toward negative charges | Field lines circulate around the direction of charge motion |
+| Can exert force on stationary charges                                    | Magnetic force acts on moving charges                       |
+
+Direction Vector -> A direction vector represent the direction in which a charge moves v (1, 0, 0) X Nahui
+
+		Slide 16
+A solenoid is a coil of wire formed by winding a wire into a reies of loops.
+Because the wire is shaped into loops, the elctrons follow those loop -> their movement produces an electric current.
+
+Straight wire:
+- Electrons move along a straight path
+- Magnetic field lines circulate around their direction of motion
+
+Coiled wire:
+- Electrons follow the curved wire
+- Their direction of motion continuously changes
+- The orientation of their magnetic fields changes accrodingly
+
+As their direction of motion changes, the orientation of their magnetic fields changes as well.
+
+		Slide 17
+

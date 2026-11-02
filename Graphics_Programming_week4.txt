@@ -151,7 +151,7 @@ As their direction of motion changes, the orientation of their magnetic fields c
 		Slide 17
 Magnetic Fields add together 
 
-Every moving electron contibutes a mganetic field 
+Every moving electron contibutes a magnetic field 
 
 Each contribution exists at the same time.
 All these magnetic fields are present at the same time, and their contributions add together. -> this is the principle of superposition.
@@ -162,3 +162,236 @@ They reinforce each other.
 
 A stronger magnetic field along the coil's axis
 Coil's axis is the imaginary line running through the center of the solenoi
+
+		Slide 18 
+One Combined magnetic field:
+- through the solenoid -> inside the coil
+- around the solenoid -> outside the coil 
+This is important because the magnetic field does not exist only inside the wire or coil
+
+Magnetic Field Inside the Solenoid 
+Near the cente of a long solenoid, the magnetic fiels is approximately: Uniform and parallel to the coil's axis
+
+Uniform Magnetic Field -> has approximately the same magnitude and direction at different points in a region -----> the magnetic field is almost the same throughout that region.
+
+Outside, the field lines curve around and return, froming closed loops. This means magnetic field lines do not simply stop at the ends of the solenoid
+
+	Slide 19
+The coil behaves like an electromagnet.
+An electromagnet is a magnet whose magnetic field is produced by an electric current.
+
+Reversing the current would reverse the magnetic field and swap the poles.
+
+Electric current is steady.
+A steady current is an electric current that does not change with time.
+- Electrons continue drifting
+- Electric current remains constant 
+- The overall magnetic field remains constant in time
+	< "Magnetic field does not need to change just because 	electrons are moving ">
+
+	Slide 20
+Electric Field 
+- Created by electric charges
+- Describes electric interactions
+					Electromagnetic Field
+Magnetic Field 
+- Associated with moving electric charges
+- Can exert forces on moving charges
+
+Maxwell's Equations -> these equations describe how electric and magnetic fields are closely connected.
+
+Principe 1 - Electric Charges Create Electric Fields 
+Electric charges produce electric fields: 
+- Posive charges -> Field lines point outward
+- Negative charges -> Field lines point inward
+
+Principe 2 - Magnetic Field Lines Form Closed Loops
+There are no isolated magnetic poles.
+A magnet always has both a north and a south pole.
+Unlike electric field line, magnetic field lines do not simply begin or end at isolated charges.
+Instead, they form closed loops.
+
+Principle 3 - Changing Magnetic fields Create Electric Fields
+A changing magnetic field creates an electric field -> a changing magnetic field can drive an electric current through a nearby coil
+
+Principle 4 - Changing Electric Fields Create Magnetic Fields 
+
+AN electromagnetic wave consists of oscillating electric and magnetic fields.
+
+	Slide 21
+Oscillation is a repeated variation around a reference value 
+
+	Slide 22
+λ Wavelength is the distance between two consecutive peaks of a wave
+Amplitude is the maximum displacement from the resting position
+T Period is the time taken for one complete cycle.
+F Frequency is the number of complete cycles per second.
+φ Phase describes the position within a wave cycle at a given moment.
+
+	Slide 23
+When two waves meet, they add together. This is called the principle of superposition 
+The resulting displacement is : 
+y(x,t) = y_1(x,t) + y_2(x,t)
+y_1 - displacement of the first wave
+y_2 - displacement of the second wave
+y - resulting displacement 
+
+	Slide 24
+Diffraction is the bending and spreading of a wave when it passes through a small opening or around an edge.
+
+Huygens' Principle
+
+Every point on a wavefront emits a small circular wavelet, and together they form the next wavefront.
+
+A wavefront connects points of a wave that have the same phase.
+
+	Slide 25
+1. Light is a transverse wave.
+A transverse wave oscillates perpendicular to its direction of propagation.
+
+2. Polarization describes the direction of the electric field's oscillation.
+
+3. Unpolarized Light
+- Sunlight
+- Light bulbs
+
+4. Polarizing Filter
+A polarizing filter allows light polarized along a particular direction to pass through.
+
+5. Polarization and Reflection
+Polarization affects how much light passes through a polarizing filter and how light behaves during reflection.
+E0​cosθ
+
+	Slide 26
+c = λf
+c = Speed of light
+λ = Wavelength
+f = Frequency
+Higher frequency → Shorter wavelength
+Lower frequency → Longer wavelength
+
+	Slide 27
+A spectrum describes how light is distributed across wavelengths.
+Spectral Power Distribution (SPD) describes the power of light per wavelength interval.
+W/nm
+
+	Sldie 30 
+Ephoton = ΔE
+Ephoton = Photon energy.
+ΔE = Difference between the two electron energy levels.	​
+
+1. Spectrum and Wavelength
+Different wavelengths correspond to different parts of the electromagnetic spectrum, including visible colors.
+
+2. Spectral Power Distribution and Metamerism
+The appearance of an object depends on the spectral properties of both the light source and the object.
+
+3. Photon Absorption
+Light can exchange energy with matter through discrete photons.
+
+These concepts will help us understand why materials absorb, reflect, and transmit light.
+
+	Slide 31
+An excited state is a state in which an atom has more energy than in its ground state.
+
+	Slide 32
+Emission occurs when an atom releases energy as a photon.
+
+Imagine:
+An electron is in a higher energy level.
+It transitions to a lower energy level.
+The atom releases a new photon.
+
+The energy of this photon corresponds to the difference between the two energy levels.
+
+	Slide 34
+Photon Energy
+E = hf
+Brighter light means more photons, not more energy per photon of the same frequency.
+Photon energy depends on frequency, while brightness depends on the amount of light.
+
+	Slide 36
+Why Is Glass Transparent?
+
+In the simplified explanation:
+
+Visible light reaches the material.
+The electric field drives electron oscillations.
+The material responds by re-radiating electromagnetic waves.
+Light can propagate through the material without strong absorption.
+
+	Slide 37
+Reflection occurs when light changes direction at a surface and returns into the original medium.
+
+Law of Reflection θi​ = θr
+Both angles are measured relative to the surface normal.​
+
+	Slide 38
+Refraction is the change in direction of light when it enters a medium with a different refractive index.
+
+The refractive index describes how the phase velocity of light in a medium compares with its speed in a vacuum.
+n = c/v 
+n = Refractive index
+\(c\) = Speed of light in a vacuum
+\(v\) = Phase velocity of light in the medium
+
+n1 * sin(theta_1) = n2 * sin(theta_2)
+n1 = Refractive index of the first medium.
+n2 = Refractive index of the second medium.
+θ1 = Angle of incidence.
+θ2 = Angle of refraction.
+
+	Slide 39
+Reflection — Light bounces off a surface.
+Refraction — Light changes direction when entering another medium.
+
+	Slide 40
+Fresnel determines how much light follows each path.
+F for the reflected fraction and 1 - F for the transmitted fraction
+
+	Slide 41
+Scattering occurs when light changes direction because of interactions with partricles or molecules
+
+Rayleigh Scattering -> This describes scattering by particles much smaller than the wavelength of light.
+
+	Slide 44 
+Ray optics describes light using rays that travel along straight paths.
+	Slide 45
+Light Field
+L(p,w)
+L - Light Field
+p - Position in space
+w - Direction of light propagation
+Radiance remains constant along an unobstructed ray travelling through a vacuum.
+
+	Slide 46
+Radiometry is the science of measuring electromagnetic radiation in terms of physical energy and power.
+
+It provides quantities and units for describing:
+
+How much energy light carries.
+Where light arrives.
+Which direction light travels.
+
+	Slide 47
+Radiant energy is measured in joules (J).
+Radiant energy measures how much energy there is.
+Radiant flux measures how quickly that energy is transferred.
+
+	Slide 49
+1. Radiant Flux (Ф) ф = d*Q/dt
+Ф = Radiant flux
+Q = radiant energy
+t = Time
+
+W = J/s
+
+Irradiance (E)
+
+To measure incoming light per unit surface area, we introduce irradiance.
+E = dФ/dA
+Irradiance is the radiant flux arriving at a surface per unit area, summed over all incoming directions.
+
+	Slide 51
+Irradiance (E) measures incoming light per unit area.
+Radiosity (B) measures outgoing light per unit area.
